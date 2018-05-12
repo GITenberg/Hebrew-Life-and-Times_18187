@@ -1,0 +1,28 @@
+_repo: Hebrew-Life-and-Times_18187
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hunting, Harold B. (Harold Bruce)
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '7861'
+    url: http://www.gutenberg.org/2009/agents/7861
+description: ''
+gutenberg_bookshelf: Judaism
+gutenberg_issued: '2006-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18187'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Old Testament -- Textbooks'
+- !lcc 'BS'
+- !lcsh 'Jews -- Social life and customs'
+title: Hebrew Life and Times
+url: http://www.gutenberg.org/ebooks/18187
